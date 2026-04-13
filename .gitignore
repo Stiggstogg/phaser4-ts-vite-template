@@ -28,3 +28,6 @@ Builds
 
 # My folder for any other resources (e.g. helper files or raw audio files)
 Resources
+
+# Do not upload any environment variables
+*.env

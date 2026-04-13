@@ -1,7 +1,7 @@
 {
-  "name": "phaser3-ts-vite-template-v2",
+  "name": "phaser4-ts-vite-template",
   "description": "Stiggstoggs Phaser 4, Vite, TypeScript template",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "author": "Stiggstogg",
   "license": "MIT",
   "licenseUrl": "http://www.opensource.org/licenses/mit-license.php",
@@ -14,11 +14,10 @@
     "patch": "npm version --no-git-tag-version patch"
   },
   "devDependencies": {
-    "typescript": "^5.7.2",
-    "vite": "^6.3.1"
+    "typescript": "^6.0.2",
+    "vite": "^8.0.8"
   },
   "dependencies": {
-    "phaser": "^4.0.0",
-    "terser": "^5.39.0"
+    "phaser": "^4.0.0"
   }
 }

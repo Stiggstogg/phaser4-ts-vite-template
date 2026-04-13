@@ -34,14 +34,14 @@ This is the template I use to start new Phaser 4 projects. It is based on the [o
 
 ## Available Commands
 
-| Command              | Description                                            |
-|----------------------|--------------------------------------------------------|
-| `npm run dev`        | Launch a development web server                        |
-| `npm run build`      | Create a production build in the `dist` folder         |
-| `npm run major`      | Increase the major version number of the project       |
-| `npm run minor`      | Increase the minor version number of the project       |
-| `npm run patch`      | Increase the patch version number of the project       |
-| `\.itch-release.ps1` | Upload your build to itch.io (see prerequisites below) |
+| Command               | Description                                            |
+|-----------------------|--------------------------------------------------------|
+| `npm run dev`         | Launch a development web server                        |
+| `npm run build`       | Create a production build in the `dist` folder         |
+| `npm run major`       | Increase the major version number of the project       |
+| `npm run minor`       | Increase the minor version number of the project       |
+| `npm run patch`       | Increase the patch version number of the project       |
+| `.\itch-release.ps1` | Upload your build to itch.io (see prerequisites below) |
 
 ## itch.io Release Script
 
